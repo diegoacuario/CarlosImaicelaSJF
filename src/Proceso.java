@@ -1,6 +1,6 @@
 /**
  *
- * @author Carlos Imaicela
+ * @author Ing. Diego Romero
  */
 public final class Proceso {
 

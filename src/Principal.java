@@ -8,7 +8,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Carlos Imaicela
+ * @author Ing. Diego Romero
  */
 public class Principal extends JFrame {
 

@@ -7,7 +7,7 @@ import javax.swing.border.LineBorder;
 
 /**
  *
- * @author Carlos Imaicela
+ * @author Ing. Diego Romero
  */
 public class PlanSJF {
 
